@@ -1,0 +1,18 @@
+{
+  "name": "Student Hub - 学生生活仪表盘",
+  "short_name": "Student Hub",
+  "description": "学生生活管理仪表盘：任务管理、记账、番茄钟、习惯打卡、课程表、目标追踪、便签",
+  "start_url": "./学生生活仪表盘.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#6366f1",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
